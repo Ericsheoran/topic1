@@ -1,13 +1,20 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(177, 204, 81);
+    font-family: monospace;
     }
     
     h1 {
-    color: white;
+    color: rgb(202, 14, 14);
     text-align: center;
+    font-size: 40px;
+    text-decoration: underline solid rgb(202, 14, 14);
+    }
+
+    h2 {
+    color: blue;
+    font-size: 30px;
     }
     
     p {
-    font-family: verdana;
     font-size: 20px;
     }
